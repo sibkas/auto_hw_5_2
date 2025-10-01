@@ -17,7 +17,7 @@ build/
 *.iml
 *.ipr
 out/
-!artifacts/app-ibank.jar
+
 
 ### NetBeans ###
 /nbproject/private/
